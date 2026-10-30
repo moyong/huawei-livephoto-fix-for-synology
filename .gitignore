@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.log
+
+# 诊断时产生的临时/二进制产物，不入库
+*.jpg
+*.jpeg
+*.mp4
+*.bak
+orig_*
+mod_*
+/tmp/

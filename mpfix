@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+"""mpfix 命令行入口。用法见 `mpfix --help` 或各子命令的 --help。"""
+import sys
+
+from mpfixlib.cli import main
+
+if __name__ == "__main__":
+    sys.exit(main())
